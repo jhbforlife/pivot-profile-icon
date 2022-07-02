@@ -1,2 +1,3 @@
 # pivot-profile-icon
  
+ this is my fourth project for the pre-work section of the pivot program! I thought it would take me much longer than it did, and I am actually really happy with this! I don't think I will be doing many edits to this in the future whatsoever - if anything, I might mess around with the shadow but I think everything else is perfect for what it is! <a href="https://jhbforlife-pivot-profile-icon.netlify.app">you can view it deployed here</a>
